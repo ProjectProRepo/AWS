@@ -25,7 +25,7 @@ Discover resources designed to help you:
 | **Free Resources**   | Complimentary guides and tools for learning AWS.                                     |
 
 
-# 📚 Mastering AWS Resources
+# Mastering AWS Resources
 
 ### 📚 Fundamentals
 
